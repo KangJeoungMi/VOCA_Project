@@ -16,5 +16,9 @@
 ### ✅구조도 - 로그인/회원가입/관리자
 ![image](https://github.com/KangJeoungMi/VOCA_Project/assets/141222777/f21ed5a6-a3ad-4f70-a649-758918efaf01)
 
+### ✅ERD
+<img width="776" alt="스크린샷 2024-09-09 오후 1 24 30" src="https://github.com/user-attachments/assets/ef25ec09-6537-421a-b1d6-78844688c317">
 
 ### ✅실행결과
+https://github.com/user-attachments/assets/d2b01bcc-ca17-4ed9-ab4b-bd29548eba54
+
